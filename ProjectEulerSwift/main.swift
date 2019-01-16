@@ -22,4 +22,9 @@ func multipleOf3And5Client(){
     print("Approach O0: The sum of all multiples of 3 and 5 less than \(upperLimitExclusive) is \(sum), took \(CFAbsoluteTimeGetCurrent() - startTime) to calculate.");
 }
 
+func fibonacciNumbersClient(){
+    EvenFibonacciNumbers.sumUpEvenFibonacciNumbersLessThan4Millions();
+}
+
 multipleOf3And5Client();
+fibonacciNumbersClient();

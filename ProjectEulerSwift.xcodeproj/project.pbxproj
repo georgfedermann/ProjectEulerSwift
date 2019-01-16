@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5669ECB721EFD218002F2EE2 /* EvenFibonacciNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5669ECB621EFD218002F2EE2 /* EvenFibonacciNumbers.swift */; };
 		56A580E021ED35080069E393 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A580DF21ED35080069E393 /* main.swift */; };
 		56A580E721ED35320069E393 /* MultiplesOf3And5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A580E621ED35320069E393 /* MultiplesOf3And5.swift */; };
 /* End PBXBuildFile section */
@@ -24,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		5669ECB621EFD218002F2EE2 /* EvenFibonacciNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvenFibonacciNumbers.swift; sourceTree = "<group>"; };
 		56A580DC21ED35080069E393 /* ProjectEulerSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ProjectEulerSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		56A580DF21ED35080069E393 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		56A580E621ED35320069E393 /* MultiplesOf3And5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiplesOf3And5.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 			children = (
 				56A580DF21ED35080069E393 /* main.swift */,
 				56A580E621ED35320069E393 /* MultiplesOf3And5.swift */,
+				5669ECB621EFD218002F2EE2 /* EvenFibonacciNumbers.swift */,
 			);
 			path = ProjectEulerSwift;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			files = (
 				56A580E021ED35080069E393 /* main.swift in Sources */,
 				56A580E721ED35320069E393 /* MultiplesOf3And5.swift in Sources */,
+				5669ECB721EFD218002F2EE2 /* EvenFibonacciNumbers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
