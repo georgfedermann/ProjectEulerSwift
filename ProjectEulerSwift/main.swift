@@ -9,7 +9,7 @@
 import Foundation
 
 func multipleOf3And5Client(){
-    let upperLimitExclusive:Int = 1_000_000_000;
+    let upperLimitExclusive:Int = 1_000;
     let base1:Int = 3;
     let base2:Int = 5;
     

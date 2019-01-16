@@ -24,7 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		56A580DC21ED35080069E393 /* ProjectEulerProblem */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ProjectEulerProblem; sourceTree = BUILT_PRODUCTS_DIR; };
+		56A580DC21ED35080069E393 /* ProjectEulerSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ProjectEulerSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		56A580DF21ED35080069E393 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		56A580E621ED35320069E393 /* MultiplesOf3And5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiplesOf3And5.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -43,7 +43,7 @@
 		56A580D321ED35080069E393 = {
 			isa = PBXGroup;
 			children = (
-				56A580DE21ED35080069E393 /* ProjectEulerProblem1 */,
+				56A580DE21ED35080069E393 /* ProjectEulerSwift */,
 				56A580DD21ED35080069E393 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -51,26 +51,26 @@
 		56A580DD21ED35080069E393 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				56A580DC21ED35080069E393 /* ProjectEulerProblem */,
+				56A580DC21ED35080069E393 /* ProjectEulerSwift */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		56A580DE21ED35080069E393 /* ProjectEulerProblem1 */ = {
+		56A580DE21ED35080069E393 /* ProjectEulerSwift */ = {
 			isa = PBXGroup;
 			children = (
 				56A580DF21ED35080069E393 /* main.swift */,
 				56A580E621ED35320069E393 /* MultiplesOf3And5.swift */,
 			);
-			path = ProjectEulerProblem1;
+			path = ProjectEulerSwift;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		56A580DB21ED35080069E393 /* ProjectEulerProblem */ = {
+		56A580DB21ED35080069E393 /* ProjectEulerSwift */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 56A580E321ED35080069E393 /* Build configuration list for PBXNativeTarget "ProjectEulerProblem" */;
+			buildConfigurationList = 56A580E321ED35080069E393 /* Build configuration list for PBXNativeTarget "ProjectEulerSwift" */;
 			buildPhases = (
 				56A580D821ED35080069E393 /* Sources */,
 				56A580D921ED35080069E393 /* Frameworks */,
@@ -80,9 +80,9 @@
 			);
 			dependencies = (
 			);
-			name = ProjectEulerProblem;
+			name = ProjectEulerSwift;
 			productName = ProjectEulerProblem1;
-			productReference = 56A580DC21ED35080069E393 /* ProjectEulerProblem */;
+			productReference = 56A580DC21ED35080069E393 /* ProjectEulerSwift */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 56A580D721ED35080069E393 /* Build configuration list for PBXProject "ProjectEulerProblem" */;
+			buildConfigurationList = 56A580D721ED35080069E393 /* Build configuration list for PBXProject "ProjectEulerSwift" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				56A580DB21ED35080069E393 /* ProjectEulerProblem */,
+				56A580DB21ED35080069E393 /* ProjectEulerSwift */,
 			);
 		};
 /* End PBXProject section */
@@ -268,7 +268,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		56A580D721ED35080069E393 /* Build configuration list for PBXProject "ProjectEulerProblem" */ = {
+		56A580D721ED35080069E393 /* Build configuration list for PBXProject "ProjectEulerSwift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				56A580E121ED35080069E393 /* Debug */,
@@ -277,7 +277,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		56A580E321ED35080069E393 /* Build configuration list for PBXNativeTarget "ProjectEulerProblem" */ = {
+		56A580E321ED35080069E393 /* Build configuration list for PBXNativeTarget "ProjectEulerSwift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				56A580E421ED35080069E393 /* Debug */,
